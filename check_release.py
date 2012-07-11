@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # coding: utf8
 '''
    Copyright [2012] Yumemi Inc.
